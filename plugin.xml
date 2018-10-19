@@ -5,7 +5,7 @@
     version="0.1.0">
 
     <engines>
-        <engine name="cordova" version=">=3.0.0" />
+        <engine name="cordova" version=">=7.0.0" />
     </engines>
 
     <name>Clipboard</name>
@@ -36,7 +36,7 @@
 
     <!-- Android -->
     <platform name="android">
-        <source-file src="src/android/Clipboard.java" target-dir="app/src/main/java/com/verso/cordova/clipboard" />
+        <source-file src="src/android/Clipboard.java" target-dir="src/com/verso/cordova/clipboard" />
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Clipboard">
