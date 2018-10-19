@@ -1,6 +1,6 @@
 {
   "name": "CordovaClipboard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Clipboard management plugin for Cordova/PhoneGap",
   "cordova": {
     "id": "com.verso.cordova.clipboard",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GuoDapeng/CordovaClipboard.git"
+    "url": "git+https://github.com/wangjingzhao/CordovaClipboard.git"
   },
   "keywords": [
     "clipboard",
@@ -32,7 +32,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GuoDapeng/CordovaClipboard/issues"
+    "url": "https://github.com/wangjingzhao/CordovaClipboard/issues"
   },
-  "homepage": "https://github.com/GuoDapeng/CordovaClipboard#readme"
+  "homepage": "https://github.com/wangjingzhao/CordovaClipboard#readme"
 }
