@@ -4,9 +4,6 @@
     id="com.verso.cordova.clipboard"
     version="0.1.1">
 
-    <engines>
-        <engine name="cordova" version=">=7.0.0" />
-    </engines>
 
     <name>Clipboard</name>
 
