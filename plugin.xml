@@ -36,7 +36,7 @@
 
     <!-- Android -->
     <platform name="android">
-        <source-file src="src/android/" target-dir="app/src/main/java/com/verso/cordova/clipboard/" />
+        <source-file src="src/android/Clipboard.java" target-dir="app/src/main/java/com/verso/cordova/clipboard/" />
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Clipboard">
